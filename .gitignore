@@ -1,0 +1,4 @@
+// ignore all machine-specific g-codes
+*.gcode
+// ignore all files exported from ArtOfIllusion
+*.obj
